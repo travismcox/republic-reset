@@ -343,3 +343,9 @@ In Suits at common law, where the value in controversy shall exceed twenty dolla
 ## Amendment VIII (1791)
 
 Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted.
+
+---
+
+## Amendment IX (1791)
+
+The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people.
