@@ -27,7 +27,10 @@ When vacancies happen in the Representation from any State, the Executive Author
 The House of Representatives shall chuse their Speaker and other Officers; and shall have the sole Power of Impeachment.
 
 ### Section 3
+
 The Senate of the United States shall be composed of two Senators from each State, chosen by the Legislature thereof, for six Years; and each Senator shall have one Vote.
+
+[Modified by Amendment XVII (1913): Senators shall be elected by the people of each State, for six years; each Senator has one vote. The executive authority of each State may make temporary appointments until the people fill the vacancies by election as directed by the legislature.]
 
 Immediately after they shall be assembled in Consequence of the first Election, they shall be divided as equally as may be into three Classes. The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of the second Class at the Expiration of the fourth Year, and of the third Class at the Expiration of the sixth Year; so that one third may be chosen every second Year; and if Vacancies happen by Resignation, or otherwise, during the Recess of the Legislature of any State, the Executive thereof may make temporary Appointments until the next Meeting of the Legislature, which shall then fill such Vacancies.
 
@@ -413,3 +416,13 @@ Section 2. The Congress shall have power to enforce this article by appropriate 
 ## Amendment XVI (1913)
 
 The Congress shall have power to lay and collect taxes on incomes, from whatever source derived, without apportionment among the several States, and without regard to any census or enumeration.
+
+---
+
+## Amendment XVII (1913)
+
+The Senate of the United States shall be composed of two Senators from each State, elected by the people thereof, for six years; and each Senator shall have one vote. The electors in each State shall have the qualifications requisite for electors of the most numerous branch of the State legislatures.
+
+When vacancies happen in the representation of any State in the Senate, the executive authority of such State shall issue writs of election to fill such vacancies: Provided, That the legislature of any State may empower the executive thereof to make temporary appointments until the people fill the vacancies by election as the legislature may direct.
+
+This amendment shall not be so construed as to affect the election or term of any Senator chosen before it becomes valid as part of the Constitution.
