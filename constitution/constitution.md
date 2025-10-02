@@ -84,3 +84,69 @@ The Constitution shall define the principles by which individuals may hold natio
 Provisions for the acquisition, retention, and loss of citizenship, as well as the rights and duties flowing from it, shall be established by law, in accordance with the principles of Articles I and II.
 
 *(Note: Left open for detailed drafting later.)*
+
+---
+
+## Article IV: The Legislature
+
+### Section 1. Representation
+The Legislature shall represent the people in making laws.  
+It shall consist of two chambers:
+1. **House of the People** — elected directly by the citizens, based on population.  
+2. **Council of the States** — elected to represent each state or region equally.  
+
+### Section 2. Lawmaking
+A law requires approval by both chambers to be enacted.  
+All proposed laws must follow the standards of Article II (plain language, summary, accessibility).  
+
+### Section 3. Terms and Elections
+Members of the House of the People shall serve for two years.  
+Members of the Council of the States shall serve for six years, with elections staggered so that one-third are chosen every two years.  
+
+### Section 4. Duties
+The Legislature shall:
+- Draft and pass laws.  
+- Approve taxation and spending.  
+- Oversee the Executive through hearings, inquiries, and impeachment if necessary.  
+
+---
+
+## Article V: The Executive
+
+### Section 1. Authority
+The Executive shall carry out and enforce the laws of the land.  
+It shall be led by a President, chosen by the people through direct election.  
+
+### Section 2. Term and Limits
+The President shall serve a term of four years, renewable only once.  
+No person may hold the presidency for more than two terms.  
+
+### Section 3. Duties
+The President shall:
+- Administer the daily functions of government.  
+- Command the defense of the nation.  
+- Uphold and enforce the Constitution.  
+- Ensure the faithful execution of laws passed by the Legislature.  
+
+### Section 4. Accountability
+The President may be removed from office by impeachment for serious misconduct, abuse of power, or betrayal of the public trust.  
+
+---
+
+## Article VI: The Judiciary
+
+### Section 1. Purpose
+The Judiciary shall interpret the law and ensure justice is carried out fairly and equally.  
+
+### Section 2. Independence
+Courts shall be free from interference by the other branches.  
+Judges shall hold office during good behavior and may only be removed for misconduct.  
+
+### Section 3. Duties
+The Judiciary shall:
+- Decide disputes under the law.  
+- Ensure that laws and actions comply with this Constitution.  
+- Protect the rights and freedoms of the people.  
+
+### Section 4. Access
+All trials shall be public, and judgments shall be published in plain language accessible to all citizens, in keeping with Article II.  
