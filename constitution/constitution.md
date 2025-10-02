@@ -337,3 +337,9 @@ In all criminal prosecutions, the accused shall enjoy the right to a speedy and 
 ## Amendment VII (1791)
 
 In Suits at common law, where the value in controversy shall exceed twenty dollars, the right of trial by jury shall be preserved, and no fact tried by a jury, shall be otherwise re-examined in any Court of the United States, than according to the rules of the common law.
+
+---
+
+## Amendment VIII (1791)
+
+Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted.
