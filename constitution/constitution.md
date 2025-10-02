@@ -349,3 +349,9 @@ Excessive bail shall not be required, nor excessive fines imposed, nor cruel and
 ## Amendment IX (1791)
 
 The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people.
+
+---
+
+## Amendment X (1791)
+
+The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people.
