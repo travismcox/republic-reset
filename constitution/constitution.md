@@ -215,3 +215,83 @@ All Debts contracted and Engagements entered into, before the Adoption of this C
 This Constitution, and the Laws of the United States which shall be made in Pursuance thereof; and all Treaties made, or which shall be made, under the Authority of the United States, shall be the supreme Law of the Land; and the Judges in every State shall be bound thereby, any Thing in the Constitution or Laws of any State to the Contrary notwithstanding.
 
 The Senators and Representatives before mentioned, and the Members of the several State Legislatures, and all executive and judicial Officers, both of the United States and of the several States, shall be bound by Oath or Affirmation, to support this Constitution; but no religious Test shall ever be required as a Qualification to any Office or public Trust under the United States.
+
+---
+
+## Article VII
+
+The Ratification of the Conventions of nine States, shall be sufficient for the Establishment of this Constitution between the States so ratifying the Same.
+
+---
+
+### Signers
+
+Done in Convention by the Unanimous Consent of the States present the Seventeenth Day of September in the Year of our Lord one thousand seven hundred and Eighty seven and of the Independence of the United States of America the Twelfth. In Witness whereof We have hereunto subscribed our Names.
+
+### George Washington
+President and deputy from Virginia
+
+**Delaware**
+- George Read  
+- Gunning Bedford, Jr.  
+- John Dickinson  
+- Richard Bassett  
+- Jacob Broom  
+
+**Maryland**
+- James McHenry  
+- Daniel of St. Thomas Jenifer  
+- Daniel Carroll  
+
+**Virginia**
+- John Blair  
+- James Madison, Jr.  
+
+**North Carolina**
+- William Blount  
+- Richard Dobbs Spaight  
+- Hugh Williamson  
+
+**South Carolina**
+- John Rutledge  
+- Charles Cotesworth Pinckney  
+- Charles Pinckney  
+- Pierce Butler  
+
+**Georgia**
+- William Few  
+- Abraham Baldwin  
+
+**New Hampshire**
+- John Langdon  
+- Nicholas Gilman  
+
+**Massachusetts**
+- Nathaniel Gorham  
+- Rufus King  
+
+**Connecticut**
+- William Samuel Johnson  
+- Roger Sherman  
+
+**New York**
+- Alexander Hamilton  
+
+**New Jersey**
+- William Livingston  
+- David Brearley  
+- William Paterson  
+- Jonathan Dayton  
+
+**Pennsylvania**
+- Benjamin Franklin  
+- Thomas Mifflin  
+- Robert Morris  
+- George Clymer  
+- Thomas FitzSimons  
+- Jared Ingersoll  
+- James Wilson  
+- Gouverneur Morris  
+
+**Attest**
+William Jackson, Secretary
