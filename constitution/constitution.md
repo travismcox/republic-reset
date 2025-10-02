@@ -19,6 +19,7 @@ No Person shall be a Representative who shall not have attained to the Age of tw
 Representatives and direct Taxes shall be apportioned among the several States which may be included within this Union, according to their respective Numbers, which shall be determined by adding to the whole Number of free Persons, including those bound to Service for a Term of Years, and excluding Indians not taxed, three fifths of all other Persons.  
 [Modified by Amendment XIII (1865): The institution of slavery and involuntary servitude is abolished, nullifying the Three-Fifths Compromise and related provisions.]
 [Modified by Amendment XIV (1868): Representation is apportioned among the states according to their whole number of persons, excluding non-taxed Native Americans. Nullifies the Three-Fifths Clause entirely.]
+[Expanded by Amendment XV (1870): The right to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude.]
 The actual Enumeration shall be made within three Years after the first Meeting of the Congress of the United States, and within every subsequent Term of ten Years, in such Manner as they shall by Law direct. The Number of Representatives shall not exceed one for every thirty Thousand, but each State shall have at Least one Representative; and until such enumeration shall be made, the State of New Hampshire shall be entitled to chuse three, Massachusetts eight, Rhode-Island and Providence Plantations one, Connecticut five, New-York six, New Jersey four, Pennsylvania eight, Delaware one, Maryland six, Virginia ten, North Carolina five, South Carolina five, and Georgia three.
 
 When vacancies happen in the Representation from any State, the Executive Authority thereof shall issue Writs of Election to fill such Vacancies.
@@ -397,3 +398,11 @@ Section 3. No person shall be a Senator or Representative in Congress, or electo
 Section 4. The validity of the public debt of the United States, authorized by law, including debts incurred for payment of pensions and bounties for services in suppressing insurrection or rebellion, shall not be questioned. But neither the United States nor any State shall assume or pay any debt or obligation incurred in aid of insurrection or rebellion against the United States, or any claim for the loss or emancipation of any slave; but all such debts, obligations and claims shall be held illegal and void.
 
 Section 5. The Congress shall have power to enforce, by appropriate legislation, the provisions of this article.
+
+---
+
+## Amendment XV (1870)
+
+Section 1. The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude.
+
+Section 2. The Congress shall have power to enforce this article by appropriate legislation.
