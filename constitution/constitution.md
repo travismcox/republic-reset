@@ -441,6 +441,8 @@ Section 2. The Congress and the several States shall have concurrent power to en
 
 Section 3. This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of the several States, as provided in the Constitution, within seven years from the date of the submission hereof to the States by the Congress.
 
+[Repealed by Amendment XXI (1933).]
+
 ---
 
 ## Amendment XIX (1920)
@@ -464,3 +466,13 @@ Section 4. The Congress may by law provide for the case of the death of any of t
 Section 5. Sections 1 and 2 shall take effect on the 15th day of October following the ratification of this article.
 
 Section 6. This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of three-fourths of the several States within seven years from the date of its submission.
+
+---
+
+## Amendment XXI (1933)
+
+Section 1. The eighteenth article of amendment to the Constitution of the United States is hereby repealed.
+
+Section 2. The transportation or importation into any State, Territory, or possession of the United States for delivery or use therein of intoxicating liquors, in violation of the laws thereof, is hereby prohibited.
+
+Section 3. This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by conventions in the several States, as provided in the Constitution, within seven years from the date of the submission hereof to the States by the Congress.
