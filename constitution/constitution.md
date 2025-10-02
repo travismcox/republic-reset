@@ -308,4 +308,10 @@ Congress shall make no law respecting an establishment of religion, or prohibiti
 
 A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.
 
+---
+
+## Amendment III (1791)
+
+No Soldier shall, in time of peace be quartered in any house, without the consent of the Owner, nor in time of war, but in a manner to be prescribed by law.
+
 
