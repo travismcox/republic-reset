@@ -112,6 +112,7 @@ The Privilege of the Writ of Habeas Corpus shall not be suspended, unless when i
 No Bill of Attainder or ex post facto Law shall be passed.
 
 No Capitation, or other direct, Tax shall be laid, unless in Proportion to the Census or Enumeration herein before directed to be taken.
+[Modified by Amendment XVI (1913): Congress has the power to lay and collect taxes on incomes, from whatever source derived, without apportionment among the several States, and without regard to any census or enumeration.]
 
 No Tax or Duty shall be laid on Articles exported from any State.
 
@@ -406,3 +407,9 @@ Section 5. The Congress shall have power to enforce, by appropriate legislation,
 Section 1. The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude.
 
 Section 2. The Congress shall have power to enforce this article by appropriate legislation.
+
+---
+
+## Amendment XVI (1913)
+
+The Congress shall have power to lay and collect taxes on incomes, from whatever source derived, without apportionment among the several States, and without regard to any census or enumeration.
