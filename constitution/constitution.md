@@ -192,3 +192,92 @@ Judges may be removed only for misconduct, incapacity, or breach of public trust
 
 ### Section 7. Access
 All trials shall be public, and judgments shall be published in plain language accessible to all citizens, in keeping with Article II.
+
+---
+
+## Article VII: Checks and Balances  
+
+### Section 1. Purpose  
+No branch of government shall exceed the authority granted to it under this Constitution. The powers of each branch shall be balanced by the others, and the people shall retain ultimate oversight of those who govern in their name.  
+
+---
+
+### Section 2. Legislative and Executive Checks  
+The President may veto legislation, returning it with stated objections. The Legislature may override such veto by a two-thirds vote of both chambers. Only the Legislature may declare war, authorize the use of armed force, and approve taxation and spending. The Legislature shall further hold the sole power of impeachment, and may remove the President, Vice President, or other officers for serious misconduct, abuse of power, or betrayal of the public trust.  
+
+---
+
+### Section 3. Judicial Checks  
+The courts may review laws and government actions for compliance with this Constitution, as provided in Article VI. No law shall be invalidated nationwide except by a supermajority of the Supreme Court. When a court identifies ambiguity or insufficiency in a law, it shall issue an Interpretive Request to the Legislature, which the Legislature shall address on an expedited basis.  
+
+---
+
+### Section 4. Citizen Oversight  
+Citizens retain the right to petition for constitutional review of any law, regulation, or executive action. A petition signed by at least one percent of the national electorate shall compel judicial review. A petition signed by at least five percent of the national electorate shall compel the Legislature to debate and vote on the measure in question. The right of recall shall extend to all elected officials, subject to thresholds defined by law, and to higher standards for the Presidency as provided in Article V. The recall of the President or Vice President shall not trigger a new election but shall instead activate the line of succession.  
+
+---
+
+### Section 5. Transparency and Accountability  
+All branches of government shall conduct their business publicly except where secrecy is strictly necessary for national defense or the protection of individual rights. Records of votes, debates, and decisions shall be published promptly in plain language. Obstruction of the petition system, recall process, or other constitutional checks shall itself constitute a breach of this Constitution, subject to judicial remedy and personal accountability for the officials responsible.  
+
+---
+
+### Section 6. Enforcement of Checks  
+Refusal by any branch or official to comply with a constitutional check — including veto overrides, judicial rulings, citizen petitions, or recall processes — shall constitute a constitutional violation.  
+
+Officials who engage in such refusal shall be subject to immediate suspension from office pending judicial review. Upon confirmation of violation, the official shall be removed from office. Any official found to have willfully or severely defied a constitutional check shall be permanently barred from holding public office within the Republic.  
+
+Where refusal or collusion is systemic, involving multiple branches or a chamber of the Legislature, the people may initiate a national referendum by petition of not less than ten percent of the electorate. Such referendum may compel compliance with the violated check, recall an entire chamber of the Legislature, or call for reconstitution of government under the provisions of Article I, Section 4.  
+
+The judiciary shall supervise such processes to ensure lawful execution, and the Legislature shall be obligated to enforce compliance by statute or direct action.  
+
+---
+
+## Article VIII: Amendments  
+
+### Section 1. Purpose  
+This Article establishes the means by which the Constitution may be revised, expanded, or clarified. The amendment power belongs ultimately to the people, and shall be exercised in a manner that protects stability while allowing necessary adaptation.  
+
+---
+
+### Section 2. Proposal of Amendments  
+Amendments may be proposed by:  
+1. A two-thirds (⅔) vote of both chambers of the Legislature, or  
+2. A petition signed by not less than ten percent (10%) of the national electorate, compelling the Legislature to place the amendment before the people and the States.  
+
+---
+
+### Section 3. Ratification of Amendments  
+1. **Primary Method — State Ratification**  
+   An amendment shall take effect when ratified by three-fourths (¾) of the States within the time period provided in Section 4.  
+
+2. **Failsafe Method — National Referendum**  
+   If the States fail to ratify within the period provided, the proposed amendment shall be submitted to a national referendum.  
+   - Ratification shall require approval by not less than sixty percent (60%) of the national electorate voting in favor.  
+   - In addition, a majority of voters in at least one-half (½) of the States must approve.  
+
+3. Ratification by either method shall have equal force and validity.  
+
+---
+
+### Section 4. Time Limits and Publication  
+1. Each proposed amendment shall state a time period for ratification, not exceeding ten (10) years from its proposal.  
+2. All proposed amendments shall be published promptly in plain language, with a concise summary of their purpose, effects, and consequences, pursuant to Article II.  
+
+---
+
+### Section 5. Limits on Amendments  
+1. No amendment shall abolish or abridge the inherent rights recognized in Article I, nor the guarantees of equality and dignity of persons.  
+2. No amendment shall abolish the process of amendment itself.  
+3. Amendments may alter structures of government, but may not establish dictatorship or hereditary rule.  
+
+---
+
+### Section 6. Repeal and Revision  
+1. Any amendment may be repealed or revised by the same process required for its adoption.  
+2. Amendments that repeal or revise existing provisions must explicitly state which provisions are affected.  
+
+---
+
+### Section 7. Living Record  
+All amendments shall be incorporated into a unified, continuously updated text of this Constitution. The official version shall reflect the Constitution as amended, with clear indication of provisions that have been added, removed, or revised. Historical versions shall be preserved and made publicly accessible, but citizens shall never be required to interpret conflicting or outdated texts.  
