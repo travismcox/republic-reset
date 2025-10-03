@@ -89,64 +89,106 @@ Provisions for the acquisition, retention, and loss of citizenship, as well as t
 
 ## Article IV: The Legislature
 
-### Section 1. Representation
-The Legislature shall represent the people in making laws.  
-It shall consist of two chambers:
-1. **House of the People** — elected directly by the citizens, based on population.  
-2. **Council of the States** — elected to represent each state or region equally.  
+### Section 1. Composition
+The Legislature shall consist of a House of Representatives and a Senate.  
+Both chambers shall be co-equal in lawmaking power, except as otherwise provided in this Constitution.
 
-### Section 2. Lawmaking
-A law requires approval by both chambers to be enacted.  
-All proposed laws must follow the standards of Article II (plain language, summary, accessibility).  
+### Section 2. The House of Representatives
+1. The House shall be apportioned among the States according to the number of residents therein.  
+2. Each Representative shall represent no more than 100,000 residents.  
+3. “Resident” means a person whose usual place of residence is within the State at the time of enumeration, regardless of citizenship or legal status.  
+4. Only citizens may vote in House elections; the apportionment of seats shall nevertheless include all residents.  
+5. House members shall serve terms of two years.  
+6. Districts shall be contiguous, reasonably compact, and respect political and natural boundaries to the greatest practicable extent.  
+7. Districting shall be carried out by independent, non-partisan commissions, with all maps and criteria published in plain language pursuant to Article II.
 
-### Section 3. Terms and Elections
-Members of the House of the People shall serve for two years.  
-Members of the Council of the States shall serve for six years, with elections staggered so that one-third are chosen every two years.  
+### Section 3. The Senate
+1. The Senate shall represent the citizen body of the Republic.  
+2. Each State shall receive a baseline of two (2) Senators.  
+3. In addition, each State shall receive one (1) Senator per 1,000,000 citizens, rounded down.  
+4. “Citizen” means a national of the Republic as defined by law, counted regardless of age, as determined by the census.  
+5. Senators shall serve terms of six years, with elections staggered so that, as nearly as practicable, one-third of the Senate is renewed every two years.
 
-### Section 4. Duties
-The Legislature shall:
+### Section 4. Census and Apportionment
+1. A national census shall occur at intervals not exceeding ten (10) years.  
+2. The census shall report separately the number of residents and the number of citizens in each State.  
+3. Apportionment of the House and Senate shall be recalculated and certified following each census.  
+4. All census data, apportionment formulas, and results shall be made public and presented in plain language pursuant to Article II.
+
+### Section 5. Duties
+The Legislature shall:  
 - Draft and pass laws.  
 - Approve taxation and spending.  
 - Oversee the Executive through hearings, inquiries, and impeachment if necessary.  
-
----
+- Exercise such other powers as are expressly granted by this Constitution.
 
 ## Article V: The Executive
 
 ### Section 1. Authority
 The Executive shall carry out and enforce the laws of the land.  
-It shall be led by a President, chosen by the people through direct election.  
+It shall be led by a President, chosen by the people through direct national election.  
+To be elected, a candidate must receive a majority of the national popular vote, defined as more than fifty percent (50%) of votes cast.  
+If no candidate achieves this threshold, a runoff election shall be held between the two candidates with the highest vote totals.
 
 ### Section 2. Term and Limits
 The President shall serve a term of four years, renewable only once.  
 No person may hold the presidency for more than two terms.  
 
-### Section 3. Duties
-The President shall:
+### Section 3. Emergency Powers
+The President may only exercise emergency powers as explicitly authorized in advance by law.  
+The Legislature shall define by statute the circumstances under which such powers may be invoked, their scope and duration, and the procedures for renewal or termination.  
+All emergency powers remain subject to judicial review.  
+
+### Section 4. Duties
+The President shall:  
 - Administer the daily functions of government.  
-- Command the defense of the nation.  
+- Command the defense of the nation, subject to laws enacted by the Legislature.  
+- Negotiate treaties and conduct foreign affairs, subject to the advice and consent of the Senate.  
 - Uphold and enforce the Constitution.  
 - Ensure the faithful execution of laws passed by the Legislature.  
 
-### Section 4. Accountability
+### Section 5. Accountability
 The President may be removed from office by impeachment for serious misconduct, abuse of power, or betrayal of the public trust.  
+The President is also subject to nationwide recall by petition of not less than twenty percent (20%) of the electorate.  
+A successful recall shall not trigger a new election, but shall instead be treated as if the President had resigned, with succession proceeding as provided by law.  
+
+### Section 6. Succession
+The Vice President shall succeed to the presidency in the event of the President’s death, resignation, removal, or incapacity.  
+If both the Presidency and Vice Presidency are vacant, succession shall proceed in the order established by law, subject to prompt certification by the Legislature.  
 
 ---
 
 ## Article VI: The Judiciary
 
 ### Section 1. Purpose
-The Judiciary shall interpret the law and ensure justice is carried out fairly and equally.  
+The Judiciary shall interpret and apply the laws of the Republic, ensuring justice is carried out fairly and equally.  
+The Judiciary shall not legislate or create new rights or obligations beyond those contained in this Constitution and laws enacted by the Legislature.  
 
-### Section 2. Independence
-Courts shall be free from interference by the other branches.  
-Judges shall hold office during good behavior and may only be removed for misconduct.  
+### Section 2. Jurisdiction
+Courts shall decide only real cases and controversies brought before them.  
+No court shall issue advisory opinions unconnected to an active case.  
 
-### Section 3. Duties
-The Judiciary shall:
-- Decide disputes under the law.  
-- Ensure that laws and actions comply with this Constitution.  
-- Protect the rights and freedoms of the people.  
+### Section 3. Standards of Decision
+1. A simple majority of Justices may resolve a case for the parties involved.  
+2. No law shall be invalidated nationwide except by a supermajority of not less than two-thirds of the Justices of the Supreme Court.  
+3. All rulings must cite the specific constitutional or statutory provisions upon which they rely.  
+4. Each decision shall be accompanied by a plain-language explanation accessible to the people.  
 
-### Section 4. Access
-All trials shall be public, and judgments shall be published in plain language accessible to all citizens, in keeping with Article II.  
+### Section 4. Interpretive Requests
+When a court determines that a law is ambiguous, incomplete, or fails to provide necessary guidance, the court shall:  
+- Resolve the case narrowly to provide justice to the parties, and  
+- Issue an **Interpretive Request** to the Legislature, identifying the specific gaps or ambiguities.  
+
+Such requests shall be published publicly and transmitted to the House and Senate, which shall consider them on an expedited basis as provided by law.  
+
+### Section 5. The Supreme Court
+1. The Supreme Court shall consist of one Justice from each appellate circuit, appointed by the President with the advice and consent of the Senate.  
+2. Justices shall serve a single term of eighteen (18) years, after which they shall be ineligible for reappointment.  
+3. The Supreme Court shall be the final arbiter of constitutional disputes, subject to the limits of this Article.  
+
+### Section 6. Independence
+Courts shall be free from interference by the other branches, except as explicitly provided in this Constitution.  
+Judges may be removed only for misconduct, incapacity, or breach of public trust, by means prescribed by law.  
+
+### Section 7. Access
+All trials shall be public, and judgments shall be published in plain language accessible to all citizens, in keeping with Article II.
